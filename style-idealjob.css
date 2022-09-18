@@ -1,0 +1,91 @@
+html, body {
+	background: #ececea;
+	font-family: helvetica, arial, sans-serif;
+	display: block;
+	border-width: 800px;
+	border-spacing: 20px;
+	
+}
+#logo-rmit img {
+	display: block;
+	width: 90%;
+	max-width: 800px;
+	background:#A392A2 ;
+	margin: top right bottom left;
+	margin: 30px auto;
+	padding: 30px;
+	display: block;
+}
+#index-list img{
+	width: 5px;
+	height: 5px;
+	margin: top right bottom left;
+	margin: 5px;
+	padding: 5px;
+}
+
+h2 {
+	padding: 50px 0 20px;
+	margin: 30px;
+	border: 30px;
+	border-bottom: 1px solid #E6DEDC;
+	font-family: Times New Roman;
+	font-size: 35px;
+	color: #A1B0ADS;
+	display: block;
+}
+
+h3 {
+	padding: 50px 0 20px;
+	margin: 30px;
+	border: 30px;
+	border-bottom: 1px solid #E6DEDC;
+	font-family: Times New Roman;
+	font-size: 25px;
+	color:#0F2C18 ;
+	display: block;
+}
+
+
+h1 {
+	padding: 30px auto ;
+	margin: 30px;
+	border: 30px;
+	font-family: Times New Roman;
+	font-size: 28px;
+	color: #2A4C65;
+	display: block;
+}
+p {
+	padding: 30px auto ;
+	margin: 30px;
+	border: 30px;
+	font-family: Times New Roman;
+	font-size: 20px;
+	color: ;
+	display: block;
+}
+
+#first {
+	max-width: 800px;
+	background: #b5c4b1 ;
+	margin: top right bottom left;
+	margin: 30px auto;
+	padding: 30px;
+	display: block
+}
+
+button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #E1AA8D;
+  border: 1px solid #939391;
+  color: #EEF1EA;
+  text-align: center;
+  font-size: 18px;
+  padding: 15px;
+  width: 110px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}

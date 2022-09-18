@@ -1,0 +1,45 @@
+html, body {
+	background: #F2EEED;
+}
+
+div {
+	background:#161D15 ;
+	border: 10px;
+	margin: 50px;
+	padding: 50px;
+	display: block;
+	float: center;
+}
+
+h1 {
+  padding: 30px auto ;
+  margin: 30px;
+  border: 30px;
+  font-family: Times New Roman;
+  font-size: 28px;
+  color: #EBEBE9;
+  display: block;
+}
+
+button {
+  color: #0099CC;
+  background-image: -webkit-linear-gradient(top, #eb94d0, #2079b0);
+    background-image: -moz-linear-gradient(top, #eb94d0, #2079b0);
+    background-image: -ms-linear-gradient(top, #eb94d0, #2079b0);
+    background-image: -o-linear-gradient(top, #eb94d0, #2079b0);
+    background-image: linear-gradient(to bottom, #eb94d0, #2079b0)
+  border: 2px solid #0099CC;
+  border-radius: 6px;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  text-decoration: none;
+  text-transform: uppercase;
+
+}

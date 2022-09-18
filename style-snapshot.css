@@ -1,0 +1,41 @@
+html, body {
+	background: #53565C;
+	font-family: helvetica, arial, sans-serif;
+	display: block;
+	border-width: 800px;	
+}
+img {
+	display: block;
+	width: 95%;
+	max-width: 800px;
+	background:#A392A2 ;
+	margin: top right bottom left;
+	margin: 30px auto;
+	padding: 30px auto;
+	display: block;
+}
+
+#first {
+	max-width: 800px;
+	background: #161D15 ;
+	margin: top right bottom left;
+	margin: 30px auto;
+	padding: 30px;
+	display: block
+}
+
+button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #2A4C65;
+  border: 1px solid #EBEBE9;
+  color: #F8F8F8;
+  text-align: center;
+  font-size: 18px;
+  padding: 20px;
+  width: 150px;
+  height: 50px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
